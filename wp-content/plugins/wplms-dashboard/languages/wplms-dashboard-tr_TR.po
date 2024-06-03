@@ -1,0 +1,1111 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPLMS Dashboard v1.8.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-02-18 19:21+0530\n"
+"PO-Revision-Date: 2015-02-18 19:21+0530\n"
+"Last-Translator: vibethemes@gmail.com <vibethemes@gmail.com>\n"
+"Language-Team: \n"
+"Language: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ vibe
+#: autoupdate/class-envato-protected-api.php:67
+msgid "Please enter your Envato Marketplace Username."
+msgstr ""
+
+# @ vibe
+#: autoupdate/class-envato-protected-api.php:71
+msgid "Please enter your Envato Marketplace API Key."
+msgstr ""
+
+# @ vibe
+#: autoupdate/class-envato-protected-api.php:96
+msgid "The API \"set\" is a required parameter."
+msgstr ""
+
+# @ vibe
+#: autoupdate/class-envato-protected-api.php:167
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr ""
+
+# @ text-domain
+#: autoupdate/class-plugin-update.php:376
+msgid "An Unexpected HTTP Error occurred during the API request."
+msgstr ""
+
+# @ text-domain
+#: autoupdate/class-plugin-update.php:376
+#: autoupdate/class-plugin-update.php:541
+msgid "Try again"
+msgstr ""
+
+# @ text-domain
+#: autoupdate/class-plugin-update.php:417
+msgid "An unknown error occurred"
+msgstr ""
+
+# @ text-domain
+#: autoupdate/class-plugin-update.php:453
+msgid ""
+"The plugin has been updated, but could not be reactivated. Please reactivate "
+"it manually."
+msgstr ""
+
+# @ text-domain
+#: autoupdate/class-plugin-update.php:454
+msgid "Plugin reactivated successfully. "
+msgstr ""
+
+# @ text-domain
+#: autoupdate/class-plugin-update.php:476
+msgid " Plugin Updates"
+msgstr ""
+
+# @ text-domain
+#: autoupdate/class-plugin-update.php:515
+msgid "Username: "
+msgstr ""
+
+# @ text-domain
+#: autoupdate/class-plugin-update.php:519
+msgid "Email: "
+msgstr ""
+
+# @ text-domain
+#: autoupdate/class-plugin-update.php:525
+msgid "Key: "
+msgstr ""
+
+# @ text-domain
+#: autoupdate/class-plugin-update.php:531
+msgid "<p>Your plugin update is <span style=\"color:green\">active</span></p>"
+msgstr ""
+
+# @ text-domain
+#: autoupdate/class-plugin-update.php:535
+msgid ""
+"<p>Your input is <span style=\"color:red\">not valid</span>, automatic "
+"updates is <span style=\"color:red\">not active</span>.</p>"
+msgstr ""
+
+# @ text-domain
+#: autoupdate/class-plugin-update.php:536
+msgid "Edit Key"
+msgstr ""
+
+# @ text-domain
+#: autoupdate/class-plugin-update.php:540
+msgid "<p>Unable to validate update activation.</p>"
+msgstr ""
+
+# @ text-domain
+#: autoupdate/class-plugin-update.php:546
+msgid "Add Key"
+msgstr ""
+
+# @ text-domain
+#: autoupdate/class-plugin-update.php:632
+msgid "User name"
+msgstr ""
+
+# @ text-domain
+#: autoupdate/class-plugin-update.php:638
+msgid "Email"
+msgstr ""
+
+# @ text-domain
+#: autoupdate/class-plugin-update.php:647
+msgid "Themeforest User name ( for Auto-Updates )"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/dashboard.php:42 includes/dashboard.php:56
+msgid "Dashboard"
+msgstr "Gösterge Panosu"
+
+# @ vibe
+# @ wplms-dashboard
+#: includes/dashboard.php:71 includes/widgets/student/news.php:195
+#: includes/widgets/student/news.php:233 includes/widgets/student/news.php:234
+#: includes/widgets/student/news.php:235
+msgid "News"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/functions.php:42
+msgid "Student Sidebar"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/functions.php:48
+msgid "This is the dashboard sidebar for Students"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/functions.php:51
+msgid "Instructor Sidebar"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/functions.php:57
+msgid "This is the dashboard sidebar for Instructors"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/news_template.php:22
+msgid "Course News"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/news_template.php:37
+msgid "Read More"
+msgstr ""
+
+# @ vibe
+#: includes/news_template.php:43
+msgid "No news available for Course"
+msgstr ""
+
+#: includes/widgets/instructor/announcements.php:14
+msgid "announcement Widget for Dashboard"
+msgstr ""
+
+#: includes/widgets/instructor/announcements.php:16
+msgid " DASHBOARD : Instructor announcement Widget"
+msgstr ""
+
+#: includes/widgets/instructor/announcements.php:63
+msgid "Add announcement"
+msgstr ""
+
+#: includes/widgets/instructor/announcements.php:64
+msgid "Send announcement to student in courses"
+msgstr ""
+
+#: includes/widgets/instructor/announcements.php:70
+msgid "All Students"
+msgstr ""
+
+#: includes/widgets/instructor/announcements.php:71
+msgid "Students who are pursuing the course"
+msgstr ""
+
+#: includes/widgets/instructor/announcements.php:72
+msgid "Students who finished the coruse"
+msgstr ""
+
+#: includes/widgets/instructor/announcements.php:75
+msgid "Submit"
+msgstr ""
+
+#: includes/widgets/instructor/announcements.php:93
+msgid "announcement"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/instructor/announcements.php:102
+#: includes/widgets/instructor/dash_instructor_stats.php:264
+#: includes/widgets/instructor/instructor_commissions.php:118
+#: includes/widgets/instructor/instructor_stats.php:170
+#: includes/widgets/student/activity_widget.php:181
+#: includes/widgets/student/calendar.php:104
+#: includes/widgets/student/contact_users.php:96
+#: includes/widgets/student/course_progress.php:150
+#: includes/widgets/student/dash_stats.php:202
+#: includes/widgets/student/news.php:205
+#: includes/widgets/student/notes_discussions.php:111
+#: includes/widgets/student/student_stats.php:319
+#: includes/widgets/student/text_widget.php:66
+#: includes/widgets/student/todo_task.php:92
+msgid "Title:"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/instructor/announcements.php:107
+#: includes/widgets/instructor/dash_instructor_stats.php:289
+#: includes/widgets/instructor/instructor_commissions.php:122
+#: includes/widgets/instructor/instructor_stats.php:182
+#: includes/widgets/student/activity_widget.php:201
+#: includes/widgets/student/calendar.php:116
+#: includes/widgets/student/contact_users.php:104
+#: includes/widgets/student/course_progress.php:162
+#: includes/widgets/student/dash_stats.php:216
+#: includes/widgets/student/news.php:213
+#: includes/widgets/student/notes_discussions.php:119
+#: includes/widgets/student/student_stats.php:359
+#: includes/widgets/student/text_widget.php:75
+#: includes/widgets/student/todo_task.php:104
+msgid "Select Width"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/instructor/announcements.php:109
+#: includes/widgets/instructor/dash_instructor_stats.php:291
+#: includes/widgets/instructor/instructor_commissions.php:124
+#: includes/widgets/instructor/instructor_stats.php:184
+#: includes/widgets/student/activity_widget.php:203
+#: includes/widgets/student/calendar.php:118
+#: includes/widgets/student/contact_users.php:106
+#: includes/widgets/student/course_progress.php:164
+#: includes/widgets/student/dash_stats.php:218
+#: includes/widgets/student/news.php:215
+#: includes/widgets/student/notes_discussions.php:121
+#: includes/widgets/student/student_stats.php:361
+#: includes/widgets/student/text_widget.php:77
+#: includes/widgets/student/todo_task.php:106
+msgid "One Fourth"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/instructor/announcements.php:110
+#: includes/widgets/instructor/dash_instructor_stats.php:292
+#: includes/widgets/instructor/instructor_commissions.php:125
+#: includes/widgets/instructor/instructor_stats.php:185
+#: includes/widgets/student/activity_widget.php:204
+#: includes/widgets/student/calendar.php:119
+#: includes/widgets/student/contact_users.php:107
+#: includes/widgets/student/course_progress.php:165
+#: includes/widgets/student/dash_stats.php:219
+#: includes/widgets/student/news.php:216
+#: includes/widgets/student/notes_discussions.php:122
+#: includes/widgets/student/student_stats.php:362
+#: includes/widgets/student/text_widget.php:78
+#: includes/widgets/student/todo_task.php:107
+msgid "One Third"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/instructor/announcements.php:111
+#: includes/widgets/instructor/dash_instructor_stats.php:293
+#: includes/widgets/instructor/instructor_commissions.php:126
+#: includes/widgets/instructor/instructor_stats.php:186
+#: includes/widgets/student/activity_widget.php:205
+#: includes/widgets/student/calendar.php:120
+#: includes/widgets/student/contact_users.php:108
+#: includes/widgets/student/course_progress.php:166
+#: includes/widgets/student/dash_stats.php:220
+#: includes/widgets/student/news.php:217
+#: includes/widgets/student/notes_discussions.php:123
+#: includes/widgets/student/student_stats.php:363
+#: includes/widgets/student/text_widget.php:79
+#: includes/widgets/student/todo_task.php:108
+msgid "One Half"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/instructor/announcements.php:112
+#: includes/widgets/instructor/dash_instructor_stats.php:294
+#: includes/widgets/instructor/instructor_commissions.php:127
+#: includes/widgets/instructor/instructor_stats.php:187
+#: includes/widgets/student/activity_widget.php:206
+#: includes/widgets/student/calendar.php:121
+#: includes/widgets/student/contact_users.php:109
+#: includes/widgets/student/course_progress.php:167
+#: includes/widgets/student/dash_stats.php:221
+#: includes/widgets/student/news.php:218
+#: includes/widgets/student/notes_discussions.php:124
+#: includes/widgets/student/student_stats.php:364
+#: includes/widgets/student/text_widget.php:80
+#: includes/widgets/student/todo_task.php:109
+msgid "Two Third"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/instructor/announcements.php:113
+#: includes/widgets/instructor/dash_instructor_stats.php:295
+#: includes/widgets/instructor/instructor_commissions.php:128
+#: includes/widgets/instructor/instructor_stats.php:188
+#: includes/widgets/student/activity_widget.php:207
+#: includes/widgets/student/calendar.php:122
+#: includes/widgets/student/contact_users.php:110
+#: includes/widgets/student/course_progress.php:168
+#: includes/widgets/student/dash_stats.php:222
+#: includes/widgets/student/news.php:219
+#: includes/widgets/student/notes_discussions.php:125
+#: includes/widgets/student/student_stats.php:365
+#: includes/widgets/student/text_widget.php:81
+#: includes/widgets/student/todo_task.php:110
+msgid "Three Fourth"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/instructor/announcements.php:114
+#: includes/widgets/instructor/dash_instructor_stats.php:296
+#: includes/widgets/instructor/instructor_commissions.php:129
+#: includes/widgets/instructor/instructor_stats.php:189
+#: includes/widgets/student/activity_widget.php:208
+#: includes/widgets/student/calendar.php:123
+#: includes/widgets/student/contact_users.php:111
+#: includes/widgets/student/course_progress.php:169
+#: includes/widgets/student/dash_stats.php:223
+#: includes/widgets/student/news.php:220
+#: includes/widgets/student/notes_discussions.php:126
+#: includes/widgets/student/student_stats.php:366
+#: includes/widgets/student/text_widget.php:82
+#: includes/widgets/student/todo_task.php:111
+msgid "Full"
+msgstr ""
+
+# @ wplms-dashbaord
+#: includes/widgets/instructor/announcements.php:122
+#: includes/widgets/instructor/announcements.php:227
+#: includes/widgets/instructor/instructor_commissions.php:140
+#: includes/widgets/instructor/instructor_stats.php:198
+#: includes/widgets/instructor/instructor_stats.php:294
+#: includes/widgets/student/contact_users.php:209
+msgid "Security error"
+msgstr ""
+
+#: includes/widgets/instructor/announcements.php:129
+msgid "Please enter some text for announcement"
+msgstr ""
+
+# @ wplms-dashbaord
+#: includes/widgets/instructor/announcements.php:133
+msgid "Course list not set"
+msgstr ""
+
+#: includes/widgets/instructor/announcements.php:153
+msgid "announcement successfully delivered"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/instructor/announcements.php:212
+msgid "CLICK TO EXPAND"
+msgstr ""
+
+#: includes/widgets/instructor/announcements.php:213
+#, php-format
+msgid "You have %s announcements"
+msgstr ""
+
+#: includes/widgets/instructor/announcements.php:236
+msgid "Unable to remove annoucement"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/instructor/break.php:13
+msgid "Line Widget for Dashboard"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/instructor/break.php:15
+msgid " DASHBOARD : Line Break"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/instructor/break.php:43
+msgid "Line Break : New Line"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/instructor/dash_instructor_stats.php:13
+msgid "Simple stats scores for instructors"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/instructor/dash_instructor_stats.php:15
+msgid " DASHBOARD : Instructor Simple Stats"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/instructor/dash_instructor_stats.php:71
+msgid "Total Commission Earned"
+msgstr "Toplam Kazancım"
+
+# @ wplms-dashboard
+#: includes/widgets/instructor/dash_instructor_stats.php:90
+msgid "Courses Instructing"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/instructor/dash_instructor_stats.php:110
+msgid "Quizzes Created"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/instructor/dash_instructor_stats.php:129
+msgid "Units Created"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/instructor/dash_instructor_stats.php:148
+msgid "Assignments Created"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/instructor/dash_instructor_stats.php:167
+msgid "Questions Created"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/instructor/dash_instructor_stats.php:187
+msgid "Badges Awarded"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/instructor/dash_instructor_stats.php:209
+msgid "Certificates awarded"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/instructor/dash_instructor_stats.php:254
+#: includes/widgets/instructor/instructor_commissions.php:110
+msgid "Instructor Stats"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/instructor/dash_instructor_stats.php:268
+#: includes/widgets/student/dash_stats.php:206
+msgid "Select Stats"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/instructor/dash_instructor_stats.php:273
+msgid "WooCommerce Earnings"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/instructor/dash_instructor_stats.php:274
+msgid "Number of courses"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/instructor/dash_instructor_stats.php:275
+msgid "Number of Quizzes"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/instructor/dash_instructor_stats.php:276
+msgid "Number of assignments"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/instructor/dash_instructor_stats.php:277
+msgid "Number of questions"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/instructor/dash_instructor_stats.php:278
+msgid "Number of units"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/instructor/dash_instructor_stats.php:279
+msgid "Number of badges"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/instructor/dash_instructor_stats.php:280
+msgid "Number of certificates"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/instructor/instructor_commissions.php:13
+msgid "WooCommerce Commission Stats  for instructors"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/instructor/instructor_commissions.php:15
+msgid " DASHBOARD : Instructor Commission Stats"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/instructor/instructor_commissions.php:52
+#, fuzzy
+msgid "Course"
+msgstr "Eğitimler"
+
+#: includes/widgets/instructor/instructor_commissions.php:52
+msgid "Earnings"
+msgstr ""
+
+#: includes/widgets/instructor/instructor_commissions.php:68
+msgid "No data found"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/instructor/instructor_commissions.php:283
+msgid "No courses found for Instructor"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/instructor/instructor_stats.php:14
+msgid "Instructor Statistics widget"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/instructor/instructor_stats.php:16
+msgid " DASHBOARD : Instructor Stats"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/instructor/instructor_stats.php:44
+#: includes/widgets/student/student_stats.php:48
+msgid "Courses"
+msgstr "Eğitimler"
+
+# @ wplms-dashboard
+#: includes/widgets/instructor/instructor_stats.php:58
+msgid "No courses created by instructor"
+msgstr ""
+
+#: includes/widgets/instructor/instructor_stats.php:80
+msgid "Show Stats"
+msgstr ""
+
+#: includes/widgets/instructor/instructor_stats.php:81
+msgid "Re-calculate Stats"
+msgstr ""
+
+#: includes/widgets/instructor/instructor_stats.php:82
+msgid "List Quiz / Assignments"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/instructor/instructor_stats.php:110
+#: includes/widgets/instructor/instructor_stats.php:126
+msgid "Average Score"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/instructor/instructor_stats.php:157
+msgid "Instructor Statistics"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/instructor/instructor_stats.php:174
+msgid "Set Range value (10 for 1/10)"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/instructor/instructor_stats.php:178
+msgid "Set Max course limit"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/instructor/instructor_stats.php:285
+msgid "No data available"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/instructor/instructor_stats.php:320
+#: includes/widgets/student/student_stats.php:51
+msgid "Quiz"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/instructor/instructor_stats.php:324
+msgid "Assignment"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/activity_widget.php:14
+#: includes/widgets/student/calendar.php:14
+msgid "Recent activity from Student"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/activity_widget.php:16
+msgid " DASHBOARD : Recent Activity"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/activity_widget.php:79
+msgid "Unread Messages"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/activity_widget.php:93
+msgid "No messages found"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/activity_widget.php:100
+msgid "Friends Online"
+msgstr "Online Arkadaşlar"
+
+# @ wplms-dashboard
+#: includes/widgets/student/activity_widget.php:108
+msgid "No friends online"
+msgstr "Hiç Online Arkadaşın Yok"
+
+# @ wplms-dashboard
+#: includes/widgets/student/activity_widget.php:125
+msgid "Recent Activity"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/activity_widget.php:133
+#: includes/widgets/student/calendar.php:63
+msgid "AGO"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/activity_widget.php:141
+msgid "No activity found"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/activity_widget.php:167
+#: includes/widgets/student/calendar.php:92
+msgid "Student Activity"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/activity_widget.php:185
+msgid "Number of items"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/activity_widget.php:189
+msgid "Show recent messages"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/activity_widget.php:193
+msgid "Show recent activity"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/activity_widget.php:197
+msgid "Show online Friends"
+msgstr "Online Arkadaşları Göster"
+
+# @ wplms-dashboard
+#: includes/widgets/student/calendar.php:16
+msgid " DASHBOARD : Calendar"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/calendar.php:56
+msgid "VIEW ALL"
+msgstr "TÜMÜNÜ GÖRÜNTÜLE"
+
+# @ wplms-dashboard
+#: includes/widgets/student/calendar.php:108
+#: includes/widgets/student/course_progress.php:154
+msgid "Number of activities in one screen"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/calendar.php:112
+msgid "Show Me & My Friends Activity"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/contact_users.php:14
+msgid "Contact form Widget"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/contact_users.php:16
+msgid " DASHBOARD : Contact Form"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/contact_users.php:53
+msgid "Select User group"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/contact_users.php:54
+msgid "Select a user group"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/contact_users.php:55
+msgid "Friends"
+msgstr "Arkadaşlar"
+
+# @ wplms-dashboard
+#: includes/widgets/student/contact_users.php:56
+msgid "Instructor"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/contact_users.php:57
+msgid "Administrator"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/contact_users.php:59
+msgid "Course Students"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/contact_users.php:63
+msgid "Type name to auto-complete"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/contact_users.php:64
+msgid "Enter Subject"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/contact_users.php:65
+msgid "Enter Message"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/contact_users.php:66
+msgid "Send Message"
+msgstr "Gönder"
+
+# @ wplms-dashboard
+#: includes/widgets/student/contact_users.php:86
+#: includes/widgets/student/dash_stats.php:192
+#: includes/widgets/student/text_widget.php:56
+msgid "Contact Instructors"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/contact_users.php:100
+msgid "Show User select dropdown"
+msgstr ""
+
+# @ wplms-dashbaord
+#: includes/widgets/student/contact_users.php:218
+msgid "Please enter to/subject/message"
+msgstr ""
+
+# @ wplms-dashbaord
+#: includes/widgets/student/contact_users.php:228
+#, php-format
+msgid "Message sent to %s members"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/course_progress.php:14
+msgid "Student Progress in Courses"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/course_progress.php:16
+msgid " DASHBOARD : Course Progress"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/course_progress.php:94
+msgid "START"
+msgstr "BAŞLAT"
+
+# @ wplms-dashboard
+#: includes/widgets/student/course_progress.php:97
+msgid "CONTINUE"
+msgstr "DEVAM ET"
+
+# @ wplms-dashboard
+#: includes/widgets/student/course_progress.php:105
+msgid "SUBMITTED"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/course_progress.php:107
+msgid "FINISHED"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/course_progress.php:138
+msgid "Course Progress"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/course_progress.php:158
+msgid "Show Finished Courses"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/dash_stats.php:13
+msgid "Simple stats scores for students"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/dash_stats.php:15
+msgid " DASHBOARD : Simple Stats"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/dash_stats.php:56
+msgid "Courses Completed"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/dash_stats.php:89
+msgid "Assignments Completed"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/dash_stats.php:123
+msgid "Quizzes Completed"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/dash_stats.php:149
+msgid "Units Completed"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/dash_stats.php:209
+msgid "Finished Courses"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/dash_stats.php:210
+msgid "Finished Quizes"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/dash_stats.php:211
+msgid "Finished Assignments"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/dash_stats.php:212
+msgid "Finished Units"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/news.php:14
+msgid "News for Members"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/news.php:16
+msgid " DASHBOARD : Member News"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/news.php:172
+msgid "No news for you !"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/news.php:209
+msgid "Maximum Number of New blocks in carousel"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/news.php:236
+msgid "Add News"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/news.php:237
+msgid "All News"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/news.php:257 includes/widgets/student/news.php:258
+#: includes/widgets/student/news.php:259
+msgid "News Tag"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/news.php:260
+msgid "Add New Tag"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/news.php:261
+msgid "All News Tags"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/news.php:274
+msgid "Share with students in Course"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/news.php:275
+msgid "Student having access to this courses will get the news"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/news.php:281
+msgid "Post Sub-Title"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/news.php:282
+msgid "Post Sub- Title."
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/news.php:289
+msgid "News Settings"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/notes_discussions.php:13
+msgid "Notes & Discussion Widget for Dashboard"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/notes_discussions.php:15
+msgid " DASHBOARD : Notes & Discussion"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/notes_discussions.php:41
+msgid "SEE ALL"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/notes_discussions.php:43
+msgid "My Notes"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/notes_discussions.php:44
+msgid "My Discussions"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/notes_discussions.php:101
+msgid "Notes& Discussion"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/notes_discussions.php:115
+msgid "Number of Notes/Dicussions"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/student_stats.php:14
+msgid "Student Statistics widget"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/student_stats.php:16
+msgid " DASHBOARD : Student Stats"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/student_stats.php:54
+msgid "Assignments"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/student_stats.php:304
+msgid "Student Statistics"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/student_stats.php:323
+msgid "Show Course statistics"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/student_stats.php:327
+msgid "Course Chart Style"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/student_stats.php:329
+#: includes/widgets/student/student_stats.php:341
+#: includes/widgets/student/student_stats.php:353
+msgid "LINE CHART"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/student_stats.php:330
+#: includes/widgets/student/student_stats.php:342
+#: includes/widgets/student/student_stats.php:354
+msgid "AREA CHART"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/student_stats.php:331
+#: includes/widgets/student/student_stats.php:343
+#: includes/widgets/student/student_stats.php:355
+msgid "BAR CHART"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/student_stats.php:335
+msgid "Show Quiz statistics"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/student_stats.php:339
+#: includes/widgets/student/student_stats.php:351
+msgid "Quiz Chart Style"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/student_stats.php:347
+msgid "Show Assignments statistics"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/text_widget.php:13
+msgid "Text Widget for Dashboard"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/text_widget.php:15
+msgid " DASHBOARD : Text Widget"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/text_widget.php:70
+msgid "Text Content"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/todo_task.php:13
+msgid "To Do list Widget"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/todo_task.php:15
+msgid " DASHBOARD : To Do Tasks"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/todo_task.php:50
+msgid "ADD NEW TASK"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/todo_task.php:60
+msgid "SAVE"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/todo_task.php:80
+msgid "To do List"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/todo_task.php:96
+msgid "Show task date"
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/todo_task.php:100
+msgid "Enable task priority"
+msgstr ""
+
+# @ wplms-dashbaord
+#: includes/widgets/student/todo_task.php:120
+msgid "Security issue."
+msgstr ""
+
+# @ wplms-dashboard
+#: includes/widgets/student/todo_task.php:129
+msgid "Unable to Save"
+msgstr ""

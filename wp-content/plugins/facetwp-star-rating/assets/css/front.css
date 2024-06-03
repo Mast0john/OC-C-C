@@ -1,0 +1,19 @@
+.facetwp-star {
+    cursor: pointer;
+    vertical-align: top;
+}
+.facetwp-star.selected {
+    font-weight: bold;
+}
+.facetwp-star .star-icon {
+    display: inline-block;
+    width: 80px;
+    height: 16px;
+    margin-right: 4px;
+    background-image: url(../images/stars.png);
+    background-position: -16px 0;
+    background-repeat: no-repeat;
+}
+.facetwp-star .stars-1 { background-position: -64px 0; }
+.facetwp-star .stars-2 { background-position: -48px 0; }
+.facetwp-star .stars-3 { background-position: -32px 0; }

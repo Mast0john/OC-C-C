@@ -1,0 +1,1314 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPLMS Front End\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-02-18 19:24+0530\n"
+"PO-Revision-Date: 2015-02-18 19:24+0530\n"
+"Last-Translator: vibethemes@gmail.com <vibethemes@gmail.com>\n"
+"Language-Team: VibeThemes <vibethemes@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-Basepath: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-"
+"front-end\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: /Applications/MAMP/htdocs/wplms/wp-content/plugins/"
+"wplms-front-end\n"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/wplms-front-end.php:66
+msgid "Please change the course title"
+msgstr "Por favor, cambie el título del curso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/wplms-front-end.php:67
+msgid "This will create a new course in the site, do you want to continue ?"
+msgstr "Esto creará un nuevo curso en el sitio, deseas continuar?"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/wplms-front-end.php:68
+msgid "Yes, create a new course"
+msgstr "Sí, crear un nuevo curso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/wplms-front-end.php:69
+msgid ""
+"This will overwrite the previous course settings, do you want to continue ?"
+msgstr "Esto sobrescribirá los ajustes del curso anterior, ¿desea continuar?"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/wplms-front-end.php:70
+msgid "Save course"
+msgstr "Guardar curso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/wplms-front-end.php:71
+msgid "This will create a new unit in the site, do you want to continue ?"
+msgstr "Esto creará una nueva unidad en el sitio, ¿desea continuar?"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/wplms-front-end.php:72
+msgid "Yes, create a new unit"
+msgstr "Sí, crear una nueva unidad"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/wplms-front-end.php:73
+msgid ""
+"This will overwrite the existing unit settings, do you want to continue ?"
+msgstr ""
+"Esto sobrescribirá los ajustes de la unidad existente, ¿desea continuar?"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/wplms-front-end.php:74
+msgid "Yes, save unit settings"
+msgstr "Sí, guardar ajustes de la unidad"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/wplms-front-end.php:75
+msgid "This will create a new question in the site, do you want to continue ?"
+msgstr "Esto creará una nueva pregunta en el sitio, ¿desea continuar?"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/wplms-front-end.php:76
+msgid "Yes, create a new question"
+msgstr "Sí, crear una nueva pregunta"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/wplms-front-end.php:77
+msgid "This will create a new quiz in the site, do you want to continue ?"
+msgstr "Esto creará un nuevo examen en el sitio, ¿desea continuar?"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/wplms-front-end.php:78
+msgid "Yes, create a new quiz"
+msgstr "Sí, crear un nuevo examen"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/wplms-front-end.php:79
+msgid ""
+"This will overwrite the existing quiz settings, do you want to continue ?"
+msgstr "Esto sobrescribirá los ajustes del examen existente, ¿desea continuar?"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/wplms-front-end.php:80
+msgid "Yes, save quiz settings"
+msgstr "Sí, guardar los ajustes del examen"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/wplms-front-end.php:81
+msgid ""
+"This will delete the unit/quiz from your site, do you want to continue ?"
+msgstr "Esto eliminará la unidad/examen de su sitio, ¿desea continuar?"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/wplms-front-end.php:82
+msgid "Continue"
+msgstr "Continuar"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/wplms-front-end.php:83
+msgid "This will overwrite the previous settings, do you want to continue ?"
+msgstr "Esto sobrescribirá los ajustes anteriores, ¿desea continuar?"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/wplms-front-end.php:84
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:617
+msgid "Save"
+msgstr "Guardar"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/wplms-front-end.php:85
+msgid ""
+"This will create a new assignment in the site, do you want to continue ?"
+msgstr "Esto creará una nueva asignatura en el sitio, ¿desea continuar?"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/wplms-front-end.php:86
+msgid "Yes, create a new assignment"
+msgstr "Sí, crear una nueva asignatura"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/wplms-front-end.php:87
+msgid ""
+"Are you sure you want to take course offline, this will remove the course "
+"from course directory and it will not be visible to your students"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/wplms-front-end.php:88
+msgid "Are you sure you want to delete this course ?"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/wplms-front-end.php:89
+#, fuzzy
+msgid "DELETE COURSE"
+msgstr "CURSO CONECTADO"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/autoupdate/class-envato-protected-api.php:67
+msgid "Please enter your Envato Marketplace Username."
+msgstr "Por favor, introduzca su nombre de usuario Envato Marketplace."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/autoupdate/class-envato-protected-api.php:71
+msgid "Please enter your Envato Marketplace API Key."
+msgstr "Por favor introduzca su Envato Marketplace API Key."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/autoupdate/class-envato-protected-api.php:96
+msgid "The API \"set\" is a required parameter."
+msgstr "La API \"set\" es un parámetro obligatorio."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/autoupdate/class-envato-protected-api.php:167
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr "El Envato Marketplace \"ID de Artículo\" es un parámetro obligatorio."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/autoupdate/class-plugin-update.php:376
+msgid "An Unexpected HTTP Error occurred during the API request."
+msgstr "Una inesperado error de HTTP ocurrió durante la petición de la API."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/autoupdate/class-plugin-update.php:376
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/autoupdate/class-plugin-update.php:541
+msgid "Try again"
+msgstr "Inténtelo de nuevo"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/autoupdate/class-plugin-update.php:417
+msgid "An unknown error occurred"
+msgstr "Se ha producido un error desconocido"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/autoupdate/class-plugin-update.php:453
+msgid ""
+"The plugin has been updated, but could not be reactivated. Please reactivate "
+"it manually."
+msgstr ""
+"El plug-in se ha actualizado, pero no pudo ser reactivado. Por favor "
+"reactivarlo manualmente."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/autoupdate/class-plugin-update.php:454
+msgid "Plugin reactivated successfully. "
+msgstr "Plugin reactivado con éxito. "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/autoupdate/class-plugin-update.php:476
+msgid " Plugin Updates"
+msgstr "Actualizaciones del plugin"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/autoupdate/class-plugin-update.php:515
+msgid "Username: "
+msgstr "Nombre de usuario: "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/autoupdate/class-plugin-update.php:519
+msgid "Email: "
+msgstr "Email:"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/autoupdate/class-plugin-update.php:525
+msgid "Key: "
+msgstr "Clave: "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/autoupdate/class-plugin-update.php:531
+msgid "<p>Your plugin update is <span style=\"color:green\">active</span></p>"
+msgstr ""
+"<p>Su actualización de plugin esta <span style=\"color:green\">activa</"
+"span></ p>"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/autoupdate/class-plugin-update.php:535
+msgid ""
+"<p>Your input is <span style=\"color:red\">not valid</span>, automatic "
+"updates is <span style=\"color:red\">not active</span>.</p>"
+msgstr ""
+"<p>Su entrada es <span style=\"color:red\">no válida</span>, las "
+"actualizaciones automáticas <span style=\"color:red\">no están activadas</"
+"span>. </p>"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/autoupdate/class-plugin-update.php:536
+msgid "Edit Key"
+msgstr "Editar clave"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/autoupdate/class-plugin-update.php:540
+msgid "<p>Unable to validate update activation.</p>"
+msgstr "<p>No se puede validar la activación de actualización.</p>"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/autoupdate/class-plugin-update.php:546
+msgid "Add Key"
+msgstr "Agregar clave"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/autoupdate/class-plugin-update.php:632
+msgid "User name"
+msgstr "Nombre de usuario"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/autoupdate/class-plugin-update.php:638
+msgid "Email"
+msgstr "Email:"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/autoupdate/class-plugin-update.php:647
+msgid "Themeforest User name ( for Auto-Updates )"
+msgstr "nombre de usuario de ThemeForest (para actualizaciones automáticas)"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:209
+msgid ""
+"You attempted to edit an item that doesn&#8217;t exist. Perhaps it was "
+"deleted?"
+msgstr ""
+"Se ha intentado editar un elemento que no existe. Tal vez fue eliminado?"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:229
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:359
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:884
+msgid "You are not allowed to edit this item."
+msgstr "Usted no está autorizado a editar este artículo."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:300
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:465
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1350
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1391
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1549
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:304
+msgid "LOCKED"
+msgstr "BLOQUEADO"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:332
+msgid "Error while saving."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:335
+msgid "g:i:s a"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:337
+#, php-format
+msgid "Draft saved at %s."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:354
+msgid "ERROR: invalid post data."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:464
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1349
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1390
+msgid "OK"
+msgstr "Aceptar"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:466
+msgid "Publish on:"
+msgstr "Publicar en:"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:467
+msgid "Schedule for:"
+msgstr "Horario para:"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:468
+msgid "Published on:"
+msgstr "Publicado el:"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:469
+#, php-format
+msgid "%1$s %2$s, %3$s @ %4$s : %5$s"
+msgstr "%1$s %2$s, %3$s @ %4$s : %5$s"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:470
+msgid "Show more comments"
+msgstr "Mostrar más comentarios"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:471
+msgid "No more comments found."
+msgstr "No hay más comentarios."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:472
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:605
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1175
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:975
+msgid "Publish"
+msgstr "Publicar"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:473
+msgid "Schedule"
+msgstr "Horario"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:474
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:521
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:617
+msgid "Update"
+msgstr "Actualización"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:475
+msgid "Save as Pending"
+msgstr "Guardar como Pendiente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:476
+msgid "Save Draft"
+msgstr "Guardar borrador"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:477
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1359
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1387
+msgid "Private"
+msgstr "Privado"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:478
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1368
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1381
+msgid "Public"
+msgstr "Público"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:479
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1365
+msgid "Public, Sticky"
+msgstr "Pública, Sticky"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:480
+msgid "Password Protected"
+msgstr "Protegido por contraseña"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:481
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1312
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1338
+msgid "Privately Published"
+msgstr "Publicado como Privada"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:482
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1315
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1336
+msgid "Published"
+msgstr "Publicado"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:510
+msgid "Saving Draft&#8230;"
+msgstr "Guardando Borrador..."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:511
+msgid "The changes you made will be lost if you navigate away from this page."
+msgstr ""
+"Los cambios realizados se perderán si se desplaza fuera de esta página."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:520
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1504
+msgid "Insert/edit link"
+msgstr "Insertar/editar enlace"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:522
+msgid "Add Link"
+msgstr "Agregar Enlace"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:523
+msgid "(no title)"
+msgstr "(Sin título)"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:524
+msgid "No matches found."
+msgstr "No se encontraron coincidencias."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:565
+msgid "Could not load the preview image. Please reload the page and try again."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:605
+msgid "Publishing&hellip;"
+msgstr "Publicando..."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:617
+msgid "Saving&hellip;"
+msgstr "Guardando..."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:617
+msgid "Updating&hellip;"
+msgstr "Actualizando..."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1105
+#, php-format
+msgid "Post updated. <a href=\"%s\">View post</a>"
+msgstr "Entrada actualizado. <a href=\"%s\">Ver Publicación</a>"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1106
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1122
+msgid "Custom field updated."
+msgstr "Campo personalizado actualizado."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1107
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1123
+msgid "Custom field deleted."
+msgstr "Campo personalizado eliminado."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1108
+msgid "Post updated."
+msgstr "Entrada actualizada."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1110
+#, php-format
+msgid "Post restored to revision from %s"
+msgstr "Entrada restaurada a la revisión de %s"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1111
+#, php-format
+msgid "Post published. <a href=\"%s\">View post</a>"
+msgstr "Entrada publicada. <a href=\"%s\">Ver Entrada</ a>"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1112
+msgid "Post saved."
+msgstr "Entrada guardada."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1113
+#, php-format
+msgid "Post submitted. <a target=\"_blank\" href=\"%s\">Preview post</a>"
+msgstr "Entrada presentada. <a target=\"_blank\" href=\"%s\">Ver Entrada</a>"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1114
+#, php-format
+msgid ""
+"Post scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s"
+"\">Preview post</a>"
+msgstr ""
+"Entrada programada para: <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">Ver Entrada</a>"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1116
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1129
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1397
+msgid "M j, Y @ G:i"
+msgstr "M j, Y @ G:i"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1117
+#, php-format
+msgid "Post draft updated. <a target=\"_blank\" href=\"%s\">Preview post</a>"
+msgstr "Borrador actualizado. <a target=\"_blank\" href=\"%s\">Ver Entrada</a"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1121
+#, php-format
+msgid "Page updated. <a href=\"%s\">View page</a>"
+msgstr "Página actualizada.  <a href=\"%s\">Ver página</a>"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1124
+msgid "Page updated."
+msgstr "Página actualizada."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1125
+#, php-format
+msgid "Page restored to revision from %s"
+msgstr "Página restaurada a la revisión de %s"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1126
+#, php-format
+msgid "Page published. <a href=\"%s\">View page</a>"
+msgstr "Página publicada. <a href=\"%s\">Ver página</a>"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1127
+msgid "Page saved."
+msgstr "Página guardada."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1128
+#, php-format
+msgid "Page submitted. <a target=\"_blank\" href=\"%s\">Preview page</a>"
+msgstr "Página presentada. <a target=\"_blank\" href=\"%s\">Ver página</a>"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1129
+#, php-format
+msgid ""
+"Page scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s"
+"\">Preview page</a>"
+msgstr ""
+"Página programada para: <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">Ver página</a"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1130
+#, php-format
+msgid "Page draft updated. <a target=\"_blank\" href=\"%s\">Preview page</a>"
+msgstr ""
+"Borrador de la página actualizado. <a target=\"_blank\" href=\"%s\">Ver "
+"página</a>"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1132
+msgid "Media attachment updated."
+msgstr "Medios Adjuntos Actualizados."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1163
+#, php-format
+msgid ""
+"There is an autosave of this post that is more recent than the version "
+"below. <a href=\"%s\">View the autosave</a>"
+msgstr ""
+"Existe una copia de seguridad automática de este mensaje que es más reciente "
+"que la versión a continuación. <a href=\"%s\">Ver autoguardado</a>"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1186
+msgid "Revisions"
+msgstr "Revisiones"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1224
+msgid "Page Attributes"
+msgstr "Atributos de la página"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1224
+msgid "Attributes"
+msgstr "Atributos"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1228
+msgid "Excerpt"
+msgstr "Extracto"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1232
+msgid "Send Trackbacks"
+msgstr "Enviar Trackbacks"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1236
+msgid "Custom Fields"
+msgstr "Campos personalizados"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1240
+msgid "Discussion"
+msgstr "Discusión"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1307
+msgid "Status:"
+msgstr "Estado:"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1318
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1340
+msgid "Scheduled"
+msgstr "Programado"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1321
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1342
+msgid "Pending Review"
+msgstr "Opinión pendiente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1325
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1344
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1346
+msgid "Draft"
+msgstr "Borrador"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1331
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1373
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1420
+msgid "Edit"
+msgstr "Editar"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1355
+msgid "Visibility:"
+msgstr "Visibilidad:"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1362
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1385
+msgid "Password protected"
+msgstr "Protegido por contraseña"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1383
+msgid "Stick this post to the front page"
+msgstr "Pegue esta entrada a la primera página"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1386
+msgid "Password:"
+msgstr "Contraseña:"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1400
+#, php-format
+msgid "Scheduled for: <b>%1$s</b>"
+msgstr "Programado para: <b>%1$s</b>"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1402
+#, php-format
+msgid "Published on: <b>%1$s</b>"
+msgstr "Publicado en: <b>%1$s</b>"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1404
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1412
+msgid "Publish <b>immediately</b>"
+msgstr "Publicar <b>inmediatamente</b>"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1406
+#, php-format
+msgid "Schedule for: <b>%1$s</b>"
+msgstr "Horario para: <b>%1$s</b>"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1408
+#, php-format
+msgid "Publish on: <b>%1$s</b>"
+msgstr "Publicado en: <b>%1$s</b>"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1436
+msgid "Slug"
+msgstr "Slug"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1449
+msgid "Author"
+msgstr "Autor"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1469
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1514
+msgid "Title"
+msgstr "Título"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1509
+msgid "Enter the destination URL"
+msgstr "Introduce la URL de destino"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1511
+msgid "URL"
+msgstr "URL"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1517
+msgid "Open link in a new window/tab"
+msgstr "Abrir enlace en una nueva ventana/pestaña"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1520
+msgid "Or link to existing content"
+msgstr "O enlazar el contenido existente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1524
+msgid "Search"
+msgstr "Buscar"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/class-wp-front-end-editor.php:1536
+msgid "No search term specified. Showing recent items."
+msgstr "No buscó término especificado. Mostrando artículos recientes."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/meta-modal-template.php:9
+msgid ""
+"<strong>Connection lost.</strong> Saving has been disabled until you&#8217;"
+"re reconnected."
+msgstr ""
+"<strong>Conexión perdida.</strong> Guardando ha sido desactivado hasta que "
+"estés reconectado."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/front-end-editor/meta-modal-template.php:10
+msgid "We&#8217;re backing up this post in your browser, just in case."
+msgstr "Estamos respaldando este blog en su navegador, por si acaso."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:64
+msgid "Create a Course"
+msgstr "Crear un Curso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:71
+msgid "COURSE CREATION ONLY ALLOWED FOR INSTRUCTORS & ADMINISTRATORS"
+msgstr "CREACIÓN DEL CURSO SÓLO SE ADMITEN PARA PROFESORES Y ADMINISTRADORES"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:81
+msgid "Unable to edit Course, please contact Site Administrator"
+msgstr ""
+"No es posible editar Curso, por favor póngase en contacto con el "
+"Administrador del Sitio"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:84
+msgid "Incorrect Action, please contact Site Administrator"
+msgstr "Acción incorrecta, póngase en contacto con el administrador del sitio"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:112
+msgid "Edit Course"
+msgstr "Editar Curso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:142
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:214
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:311
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:439
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:496
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:551
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:579
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:615
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:757
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:796
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:821
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1055
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1355
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1409
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1468
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1597
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1623
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1812
+msgid "Security check Failed. Contact Administrator."
+msgstr "Control de seguridad falló. Contacte al administrador."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:166
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:251
+msgid "Unable to create a new Course Category. Contact Admin !"
+msgstr ""
+"No se puede crear una nueva Categoría de Curso. Contacte al Administrador!"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:195
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:279
+msgid "Unable to create course, contact admin !"
+msgstr "No se puede crear curso, contacte al administrador!"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:220
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:316
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:444
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:501
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:556
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:584
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:620
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:762
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:801
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:826
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1060
+msgid "Invalid Course id, please edit a course"
+msgstr "ID del curso inválida, por favor edite un curso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:226
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:322
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:450
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:507
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:590
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:626
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:768
+msgid "Invalid Course Instructor"
+msgstr "Profesor del curso inválido"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:334
+msgid "Unable to save course setting : "
+msgstr "No se puede guardar ajuste de curso: "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:434
+msgid "Can not have a blank Unit "
+msgstr "No se puede tener una unidad en blanco "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:469
+msgid "Edit Unit"
+msgstr "Editar Unidad"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:470
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:525
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:976
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1179
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1217
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1373
+msgid "Remove"
+msgstr "Eliminar"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:471
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:526
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1180
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1374
+msgid "Delete"
+msgstr "Borrar"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:491
+msgid "Can not have a Blank Quiz"
+msgstr "No se puede tener un Examen en Blanco"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:524
+msgid "Edit Quiz"
+msgstr "Editar Examen"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:546
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1463
+msgid "Can not delete"
+msgstr "No se puede eliminar"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:562
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1474
+msgid "Instructor can not delete this unit/quiz"
+msgstr "Profesor no puede eliminar esta unidad/examen"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:570
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1482
+msgid "Unable to delete"
+msgstr "No se puede eliminar"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:605
+msgid "Unable to save curriculum, please contact site admin"
+msgstr ""
+"No se puede guardar contenido, por favor póngase en contacto con el "
+"administrador del sitio"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:693
+msgid "Invalid Product specs"
+msgstr "Especificaciones del producto inválidas"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:744
+msgid "Unable to create product and pricing for course"
+msgstr "No se puede crear precios y productos para el curso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:780
+msgid "Course successfully updated."
+msgstr "Curso finalizado correctamente."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:781
+msgid "View Course"
+msgstr "Ver Curso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:783
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:810
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:870
+msgid "Unable to update Course, contact Site admin"
+msgstr "No se puede actualizar Curso, contecte al administrador del sitio"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:808
+msgid "Course Offline."
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:831
+msgid "Course deletion not allowed"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:842
+#, fuzzy
+msgid "Unable to delete curriclum"
+msgstr "No se puede eliminar"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:868
+#, fuzzy
+msgid "Course Deleted."
+msgstr "Campo personalizado eliminado."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:911
+msgid "Unit Settings"
+msgstr "Ajustes de la Unidad"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:914
+msgid "Unit Type"
+msgstr "Tipo de Unidad"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:915
+msgid "Select Unit Type"
+msgstr "Seleccione Tipo de Unidad"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:919
+msgid "Video"
+msgstr "Vídeo"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:920
+msgid "Audio"
+msgstr "Audio"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:921
+msgid "Podcast"
+msgstr "Podcast"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:922
+msgid "General"
+msgstr "General"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:930
+msgid "Free Unit"
+msgstr "Unidad Gratuita"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:931
+msgid "Make Unit Free"
+msgstr "Hacer Gratuita la Unidad"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:934
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1693
+msgid "NO"
+msgstr "NO"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:936
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1691
+msgid "YES"
+msgstr "Sí"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:942
+msgid "Unit Duration"
+msgstr "Duración de Unidad"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:943
+msgid "Duration of Unit"
+msgstr "Duración de la Unidad"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:950
+msgid "Unit assignments"
+msgstr "Asignaturas de la Unidad"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:951
+msgid "Connect Assignments"
+msgstr "Conectar Asignaturas"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:953
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:990
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1192
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1701
+msgid "None"
+msgstr "Ninguno"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:968
+msgid "Edit Assignment"
+msgstr "Editar Asignatura"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:970
+msgid "ADD NEW ASSIGNMENT"
+msgstr "AGREGAR NUEVA ASIGNATURA"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:971
+msgid "Add the Assignment title"
+msgstr "Agregar Título de Asignatura"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:987
+msgid "Unit Forum"
+msgstr "Foro de la Unidad"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:988
+msgid "Connect a Forum"
+msgstr "Conecte un Foro"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:991
+msgid "Add new child forum in Course forum"
+msgstr "Agregar nuevo pequeño foro, en el Foro del Curso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:992
+msgid "Add new forum"
+msgstr "Añadir nuevo foro"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1012
+msgid "SAVE UNIT SETTINGS"
+msgstr "GUARDAR AJUSTES DE LA UNIDAD"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1065
+msgid "Invalid Unit id, please edit a course"
+msgstr "ID de la unidad inválida, por favor edite un curso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1071
+msgid "Invalid Unit Instructor"
+msgstr "Unidad del Profesor no válida"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1134
+msgid "Settings Saved"
+msgstr "Ajustes Guardados"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1136
+msgid "Unable to save settings"
+msgstr "No se puede guardar los ajustes"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1160
+msgid "Manage Quiz Questions"
+msgstr "Administrar Preguntas del Examen"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1163
+msgid "ADD QUESTION"
+msgstr "AGREGAR PREGUNTA"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1174
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1368
+msgid "Question "
+msgstr "Pregunta "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1178
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1372
+msgid "Edit Question"
+msgstr "Editar pregunta"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1183
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1377
+msgid "MARKS : "
+msgstr "NOTAS: "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1193
+msgid "ADD A NEW QUESTION"
+msgstr "AGREGAR UNA NUEVA PREGUNTA"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1209
+msgid "Marks : "
+msgstr "Notas: "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1211
+msgid "Question Title : "
+msgstr "Título de Pregunta: "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1212
+msgid "Enter title for reference"
+msgstr "Introduzca el título de referencia"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1216
+msgid "Publish Question"
+msgstr "Publicar Pregunta"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1223
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1346
+msgid "SAVE QUIZ SETTINGS"
+msgstr "GUARDAR AJUSTES DEL EXAMEN"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1246
+msgid "Enter a Quiz sub-title"
+msgstr "Introduzca un subtítulo del examen"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1256
+msgid "Enter a Quiz Completion message"
+msgstr "Escriba un Mensaje de Finalización del Examen"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1262
+msgid "Quiz Settings"
+msgstr "Ajustes del Examen"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1266
+msgid "QUIZ SUB-TITLE"
+msgstr "SUBTITULO DEL EXAMEN"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1271
+msgid "CONNECTED COURSE"
+msgstr "CURSO CONECTADO"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1286
+msgid "QUIZ DURATION"
+msgstr "DURACIÓN DEL EXAMEN"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1289
+msgid "QUIZ EVALUATION"
+msgstr "EVALUACIÓN DEL EXAMEN"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1292
+msgid "AUTO"
+msgstr "AUTOMÁTICO"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1294
+msgid "MANUAL"
+msgstr "MANUAL"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1298
+msgid "QUIZ QUESTIONS TYPE"
+msgstr "TIPOS DE PREGUNTAS DE EXÁMEN"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1301
+msgid "DYNAMIC"
+msgstr "DINÁMICO"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1303
+msgid "STATIC"
+msgstr "ESTÁTICO"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1307
+msgid "SELECT QUESTION TAGS"
+msgstr "SELECCIONE ETIQUETAS DE PREGUNTA"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1318
+msgid "NUMER OF QUESTIONS"
+msgstr "NUMERO DE PREGUNTAS"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1321
+msgid "MARKS PER QUESTION"
+msgstr "PUNTOS POR PREGUNTA"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1324
+msgid "QUIZ RETAKES"
+msgstr "RETOMAS DE EXAMEN"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1325
+msgid " Retakes"
+msgstr " Retomas"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1327
+#, fuzzy
+msgid "QUESTIONS ORDER"
+msgstr "TIPOS DE PREGUNTAS DE EXÁMEN"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1330
+msgid "RANDOM"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1332
+msgid "SEQUENTIAL"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1336
+msgid "QUIZ COMPLETION MESSAGE"
+msgstr "MENSAJE DE FINALIZACIÓN DEL EXAMEN"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1361
+#, fuzzy, php-format
+msgid "Add Content for %s"
+msgstr "Agregar contenido a "
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1414
+msgid "Invalid Quiz"
+msgstr "Examen no válido"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1440
+msgid "Quiz Settings saved"
+msgstr "Ajustes de Examen Guardados"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1503
+msgid "True or False"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1504
+#, fuzzy
+msgid "Multiple Choice"
+msgstr "Opción Múltiple, una respuesta"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1505
+msgid "Multiple Correct"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1506
+msgid "Sort Answers"
+msgstr "Ordenar Respuestas"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1507
+#, fuzzy
+msgid "Match Answers"
+msgstr "Ordenar Respuestas"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1508
+msgid "Fill in the Blank"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1509
+msgid "Dropdown Select"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1510
+#, fuzzy
+msgid "Small Text"
+msgstr "Texto Grande"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1511
+msgid "Large Text"
+msgstr "Texto Grande"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1515
+msgid "QUESTION SETTINGS"
+msgstr "AJUSTES DE PREGUNTAS"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1517
+msgid "Question Type"
+msgstr "Tipo de pregunta"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1528
+msgid "ADD OPTION"
+msgstr "AGREGAR OPCIÓN"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1538
+msgid "Click to select as Correct answer"
+msgstr "Haga clic para seleccionar como respuesta correcta"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1547
+msgid "Correct Answer"
+msgstr "Respuesta correcta"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1548
+msgid "Answer Hint"
+msgstr "Indicio de Respuesta"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1549
+msgid "Answer Explaination"
+msgstr "Explicación de Respuesta"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1557
+msgid "SAVE QUESTION SETTINGS"
+msgstr "AJUSTES DE PREGUNTAS GUARDADA"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1592
+msgid "Unable to save, incorrect question"
+msgstr "No se puede guardar, pregunta incorrecta"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1616
+msgid "Question settings successfully saved"
+msgstr "Ajustes de preguntas guardado correctamente"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1630
+msgid "Unable to save, incorrect unit"
+msgstr "No se puede guardar, unidad incorrecta"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1670
+msgid "ASSIGNMENT SETTINGS"
+msgstr "AJUSTES DE ASIGNATURA"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1674
+msgid "ASSIGNMENT SUB-TITLE"
+msgstr "SUBTITULO DE ASIGNATURA"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1680
+msgid "ASSIGNMENT MARKS"
+msgstr "NOTAS DE ASIGNATURA"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1681
+msgid "Assignment Maximum Marks"
+msgstr "Nota Máxima de Asignatura"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1681
+msgid "MARKS"
+msgstr "NOTAS"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1684
+msgid "ASSIGNMENT DURATION"
+msgstr "DURACIÓN DE ASIGNATURA"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1685
+msgid "Enter Assignment Duration"
+msgstr "Introduzca Duración de Asignatura"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1687
+msgid "ASSIGNMENT EVALUATION"
+msgstr "EVALUACIÓN DE ASIGNATURA"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1688
+msgid "Include in Course Evaluation"
+msgstr "Incluya en Evaluación del Curso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1698
+msgid "ASSIGNMENT COURSE"
+msgstr "ASIGNATURA DE CURSO"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1699
+msgid "Select Assignment Course"
+msgstr "Seleccione Asignatura de Curso"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1716
+msgid "ASSIGNMENT SUBMISISON TYPE"
+msgstr "TIPO DE PRESENTACIÓN DE ASIGNATURA"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1718
+msgid "UPLOAD"
+msgstr "SUBIR"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1719
+msgid "TEXTAREA"
+msgstr "AREA DE TEXTO"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1722
+msgid "ATTACHMENT TYPE"
+msgstr "TIPO DE ADJUNTO"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1767
+msgid "Attachment Size"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1768
+#, fuzzy
+msgid "Maximum attachment size"
+msgstr "Medios Adjuntos Actualizados."
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1768
+msgid " MBs"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1771
+msgid "SAVE SETTINGS"
+msgstr "GUARDAR AJUSTES"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1817
+msgid "Invalid details"
+msgstr "Detalles no válidos"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1823
+msgid "Invalid Assignment author"
+msgstr "Autor de Asignatura no válida"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1832
+msgid "SETTINGS SAVED"
+msgstr "AJUSTES GUARDADOS"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1844
+msgid "ADD PACKAGE"
+msgstr "AGREGAR PAQUETE"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1848
+msgid "Seconds"
+msgstr "Segundos"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1849
+msgid "Minutes"
+msgstr " Minutos"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1850
+msgid "Hours"
+msgstr "Horas"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1851
+msgid "Days"
+msgstr "Dias"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1852
+msgid "Weeks"
+msgstr "Semanas"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1853
+msgid "Months"
+msgstr "Meses"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-front-end/includes/class_wplms_front_end.php:1854
+msgid "Years"
+msgstr "Años"
+
+#~ msgid "Can not have delete"
+#~ msgstr "No se puede borrar"
+
+#~ msgid " Minutes"
+#~ msgstr " Minutos"
+
+#~ msgid "Add a New Assignment"
+#~ msgstr "Añadir Nueva Asignatura"
+
+#~ msgid "Multiple Choice multiple answer"
+#~ msgstr "Opción Múltiple, respuestas múltiples"
+
+#~ msgid "One Line Text"
+#~ msgstr "Una línea de texto"
+
+#~ msgid "DAYS"
+#~ msgstr "DÍAS"

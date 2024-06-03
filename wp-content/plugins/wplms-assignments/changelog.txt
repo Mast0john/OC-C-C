@@ -1,0 +1,63 @@
+* version1.9.1
+* Language files updated
+* Improved assignment appearance
+* Assignment messages include maximum assignment marks
+* finfo function warning
+* Assignment stats in Courses
+* version1.9
+* Translation files
+* Czech language
+* Bug Fixes for Incomplete assignment submissions
+* version1.8.4.1
+* PHP v 5.4 fix
+* version1.8.4
+* Translation files updated
+* v1.8.3
+* Assignment marks CSS fix
+* FIXED : Infinite assignment clicking loop
+* Language files update
+* version1.8.2.1
+* Uploader in assignments fix
+* Updated Changelog
+* version1.8.2
+* Reset assignment on Course reset
+* version1.8.1
+* version1.8
+* Updated : Language files
+* version1.7.5
+* version1.7.4
+* UPDATED: Language files
+* version1.7.3
+* version1.7.2
+* UPDATED : Language files
+* ADDED : CodeStyling Localization compatibility
+* Version 1.7.1
+* FIXED : Attachment size issue
+* ADDED : Assignment submission notification to Instructor
+* version1.7.0
+* version1.7.0
+* ADDED: TinCan API Compatibility
+* version 1.6.5 : updated language files
+* ADDED : Assignment parameter
+* ADDED : Multiple assignments per unit.
+* version1.6.4
+* version 1.6.3
+* version 1.6.3
+* version 1.6.2
+* Updated  : Language files
+* ADDED : Brazilian translation files
+* version 1.6.1
+* version 1.6
+* UPDATED: Language Files[US]
+* version 1.5.5
+* version 1.5.4
+* version 1.5.4
+* FIXED :Translation bug
+* version 1.5.3
+* UPDATED : Language Files
+* FIXED : Changed load_textdomain to load_plugin_textdomain
+* FIXED : The message notification on function types
+* version 1.5.2
+* version 1.5.2
+* FIXED: Comments not saving in general posts / Quizzes
+* Initialize Repo

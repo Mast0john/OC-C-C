@@ -1,0 +1,46 @@
+* version1.9.1
+* Language files updated
+* Units completed dashboard widget fix
+* News template pagination fix
+* version1.9
+* Translation files
+* Widget classes
+* Remove Annoucements fix
+* Czech language
+* version1.8.4
+* Translation files updated
+* Notes & Discussion widget
+* Course Progress widget fix
+* Stats array generation fix for graphs
+* Notes & Discussion widget CSS Changes
+* version1.8.3
+* Updated translation files
+* FIXED : Course progress widget
+* ADDED : Students filter for Annoucement
+* ADDED : Course News feature
+* Updated Changelog
+* language change
+* FIXED: Blank out message fields on successful message
+* Js fixes
+* version1.8.1
+* Progress bar fix
+* Dashboard Stats fix
+* Morris and raphael now loading form local installations to avoid the https error
+* version 1.8.0.3
+* version 1.8.0.3
+* Fixes in student stats
+* Bug Fixes in news
+* Bug Fixes in course Progress
+* version1.8.0.2
+* version1.8.0.2
+* FIXED : Dash stats issues for Students
+* version1.8.0.1
+* version1.8.0.1
+* Fixed Warnings in Instructor commissions
+* Added Dashboard access filter
+* ADDED Language files
+* version1.8
+* version1.8
+* 0.2
+* Widgets
+* Initializing Repository

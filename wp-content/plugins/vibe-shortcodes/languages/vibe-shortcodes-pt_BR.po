@@ -1,0 +1,1188 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Vibe ShortCodes v1.7.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-02-18 19:07+0530\n"
+"PO-Revision-Date: 2015-02-18 19:07+0530\n"
+"Last-Translator: vibethemes@gmail.com <vibethemes@gmail.com>\n"
+"Language-Team: VibeThemes <vibethemes@gmail.com>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-"
+"shortcodes\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: /Applications/MAMP/htdocs/wplms/wp-content/plugins/"
+"vibe-shortcodes\n"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/ajaxcalls.php:77
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/ajaxcalls.php:115
+msgid "Unable to send message! Please try again later.."
+msgstr ""
+"Não foi possível enviar mensagem! Por favor tente novamente mais tarde..."
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/ajaxcalls.php:95
+msgid "Contact Form Submission"
+msgstr "Formulário para Contato"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/ajaxcalls.php:113
+msgid "Message sent!"
+msgstr "Mensagem enviada!"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/shortcodes.php:103
+#, fuzzy
+msgid "EARNED"
+msgstr "Parabéns! Você ganhou o "
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/shortcodes.php:127
+msgid "Check all Courses created by "
+msgstr "Confira todos os cursos criados por "
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/shortcodes.php:128
+msgid "More Courses by "
+msgstr "Mais Cursos por "
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/upload_handler.php:16
+#, fuzzy
+msgid "Upload ZIP"
+msgstr "Excluir arquivo de áudio"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/upload_handler.php:37
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/upload_handler.php:331
+#, fuzzy
+msgid "Upload Library"
+msgstr "Enviar Imagem"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/upload_handler.php:38
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/upload_handler.php:236
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/upload_handler.php:322
+#, fuzzy
+msgid "Upload File"
+msgstr "Excluir arquivo de áudio"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/upload_handler.php:93
+msgid "Iframe source"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/upload_handler.php:102
+msgid "Maximum height of iFrame"
+msgstr ""
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/upload_handler.php:103
+#, fuzzy
+msgid "Insert Into Post"
+msgstr "post"
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/upload_handler.php:129
+#, php-format
+msgid "Showing Content %d - %d from %d"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/upload_handler.php:154
+msgid "No packages available"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/upload_handler.php:219
+msgid "Please upload a Zip package with index.html file"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/upload_handler.php:220
+msgid "No data found!"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/upload_handler.php:221
+msgid "Are you sure you want to remove this package?"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/upload_handler.php:235
+msgid "Choose a file to upload"
+msgstr ""
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/upload_handler.php:239
+msgid "Please choose a .zip package file"
+msgstr ""
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/upload_handler.php:263
+msgid "The Upload file must be zip archive"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/upload_handler.php:273
+msgid "File too big"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/upload_handler.php:293
+msgid "Please upload zip file, Index.html file not found in package"
+msgstr ""
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/upload_handler.php:297
+#, fuzzy
+msgid "Upload failed !"
+msgstr "Excluir arquivo de áudio"
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/autoupdate/class-envato-protected-api.php:67
+#, fuzzy
+msgid "Please enter your Envato Marketplace Username."
+msgstr "Por favor, entre com seu Envato Marketplace Username."
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/autoupdate/class-envato-protected-api.php:71
+#, fuzzy
+msgid "Please enter your Envato Marketplace API Key."
+msgstr "Por favor, entre com seu Envato Marketplace API Key."
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/autoupdate/class-envato-protected-api.php:96
+#, fuzzy
+msgid "The API \"set\" is a required parameter."
+msgstr "The API \"set\" é um parâmetro obrigatório."
+
+# @ vibe
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/autoupdate/class-envato-protected-api.php:167
+#, fuzzy
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr "The Envato Marketplace \"item ID\" é um parâmetro obrigatório."
+
+# @ text-domain
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/autoupdate/class-plugin-update.php:376
+#, fuzzy
+msgid "An Unexpected HTTP Error occurred during the API request."
+msgstr "Um erro HTTP inesperado ocorreu durante o pedido API."
+
+# @ text-domain
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/autoupdate/class-plugin-update.php:376
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/autoupdate/class-plugin-update.php:541
+msgid "Try again"
+msgstr "Tente novamente"
+
+# @ text-domain
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/autoupdate/class-plugin-update.php:417
+msgid "An unknown error occurred"
+msgstr "Ocorreu um erro desconhecido."
+
+# @ text-domain
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/autoupdate/class-plugin-update.php:453
+msgid ""
+"The plugin has been updated, but could not be reactivated. Please reactivate "
+"it manually."
+msgstr ""
+"O plugin foi atualizado, mas não pode ser reativado. Por favor, reativá-lo "
+"manualmente."
+
+# @ text-domain
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/autoupdate/class-plugin-update.php:454
+msgid "Plugin reactivated successfully. "
+msgstr "Plugin reativado com sucesso."
+
+# @ text-domain
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/autoupdate/class-plugin-update.php:476
+#, fuzzy
+msgid " Plugin Updates"
+msgstr "Atualizações de Plugins"
+
+# @ text-domain
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/autoupdate/class-plugin-update.php:515
+msgid "Username: "
+msgstr "Usuário: "
+
+# @ text-domain
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/autoupdate/class-plugin-update.php:519
+msgid "Email: "
+msgstr "Email: "
+
+# @ text-domain
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/autoupdate/class-plugin-update.php:525
+msgid "Key: "
+msgstr "Chave: "
+
+# @ text-domain
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/autoupdate/class-plugin-update.php:531
+#, fuzzy
+msgid "<p>Your plugin update is <span style=\"color:green\">active</span></p>"
+msgstr ""
+"<p>Atualize seu plugin esta <span style=\"color:green\">ativo</span></p>"
+
+# @ text-domain
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/autoupdate/class-plugin-update.php:535
+#, fuzzy
+msgid ""
+"<p>Your input is <span style=\"color:red\">not valid</span>, automatic "
+"updates is <span style=\"color:red\">not active</span>.</p>"
+msgstr ""
+"<p>Sua entrada <span style=\"color:red\">não é válida</span>, atualizações "
+"automáticas <span style=\"color:red\">não esta ativo</span>.</p>"
+
+# @ text-domain
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/autoupdate/class-plugin-update.php:536
+msgid "Edit Key"
+msgstr "Editar Chave"
+
+# @ text-domain
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/autoupdate/class-plugin-update.php:540
+#, fuzzy
+msgid "<p>Unable to validate update activation.</p>"
+msgstr "<p>Não é possível validar a ativação de atualização.</p>"
+
+# @ text-domain
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/autoupdate/class-plugin-update.php:546
+msgid "Add Key"
+msgstr "Adicionar Chave"
+
+# @ text-domain
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/autoupdate/class-plugin-update.php:632
+msgid "User name"
+msgstr "Nome de usuário"
+
+# @ text-domain
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/autoupdate/class-plugin-update.php:638
+msgid "Email"
+msgstr "Email"
+
+# @ text-domain
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/autoupdate/class-plugin-update.php:647
+#, fuzzy
+msgid "Themeforest User name ( for Auto-Updates )"
+msgstr "Nome de usuário do Themeforest ( para Auto-Atualização )"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/classes/vibeshortcodes.class.php:49
+msgid "Sending mail"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/classes/vibeshortcodes.class.php:50
+msgid "Error :"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/classes/vibeshortcodes.class.php:51
+msgid "Invalid "
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/classes/vibeshortcodes.class.php:52
+msgid "Captcha Mismatch"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:13
+msgid "Open first"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:14
+msgid "First accordion will be open by default"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:16
+msgid "No"
+msgstr ""
+
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:17
+msgid "Yes"
+msgstr ""
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:22
+msgid "Insert Accordion Shortcode"
+msgstr "Insira Accordion Shortcode"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:27
+#, fuzzy
+msgid "Accordion Title 1"
+msgstr "Accordion Título"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:28
+msgid "Add the title of the accordion"
+msgstr "Adicione o título para o accordion"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:34
+msgid "Accordion Content"
+msgstr "Conteúdo do Accordion"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:35
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:879
+msgid "Add the content. Accepts HTML & other Shortcodes."
+msgstr "Adicione o conteúdo. Aceita HTML e outros Shortcodes."
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:39
+#, fuzzy
+msgid "Add Accordion Toggle"
+msgstr "Adicionar Seção"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:54
+#, fuzzy
+msgid "Link URL"
+msgstr "Mostrar Link"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:55
+msgid "Add the button's url eg http://www.example.com"
+msgstr "Adicione o botão url por exemplo http://www.example.com"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:60
+msgid "Button Style"
+msgstr "Estilo do Botão"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:61
+msgid "Select button style"
+msgstr "Selecione o estilo do botão"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:73
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:287
+msgid "Background color"
+msgstr "Cor de fundo"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:74
+msgid "Select the button's size"
+msgstr "Selecione o tamanho do botão"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:78
+#, fuzzy
+msgid "Hover Bg color"
+msgstr "Mostrar botão do link na imagem em foco"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:79
+msgid "Select the button's on hover background color "
+msgstr ""
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:83
+msgid "Text color"
+msgstr "Cor do texto"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:84
+msgid "Select the button's text color"
+msgstr "Selecione a cor do texto do botão"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:88
+msgid "Font Size"
+msgstr "Tamanho da Fonte"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:95
+msgid "Width"
+msgstr "Largura"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:102
+msgid "Height"
+msgstr "Altura"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:109
+msgid "Border Radius"
+msgstr ""
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:116
+msgid "Button Target"
+msgstr "Alvo do Botão"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:117
+msgid "_self = open in same window. _blank = open in new window"
+msgstr "_self = abrir na mesma janela. _blank = abrir em nova janela"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:126
+msgid "Button Anchor"
+msgstr ""
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:127
+msgid "Replace button label with the text you enter."
+msgstr "Substituir etiqueta do botão com o texto inserido."
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:131
+#, fuzzy
+msgid "Insert Button Shortcode"
+msgstr "Mostrar botão do link na imagem em foco"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:142
+#, fuzzy
+msgid "Insert Columns Shortcode"
+msgstr "COLUNAS"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:150
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:166
+msgid "Column Type"
+msgstr "Tipo da Coluna"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:151
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:167
+msgid "Select the type, ie width of the column."
+msgstr "Selecione o tipo, ou seja, a largura da coluna."
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:176
+msgid "Column Content"
+msgstr "Conteúdo da Coluna"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:177
+msgid "Add the column content."
+msgstr "Adicionar o conteúdo da coluna."
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:181
+msgid "Add Column"
+msgstr "Adicionar Coluna"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:194
+msgid "Icon type"
+msgstr "Tipo do Ícone"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:195
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:485
+msgid "Select Icon type"
+msgstr "Selecione o tipo do ícone"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:200
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:201
+msgid "Icon Size"
+msgstr "Tamanho do ícone"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:210
+#, fuzzy
+msgid "Custom Style"
+msgstr "Estilo"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:211
+msgid "icon style"
+msgstr "estilo do ícone"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:220
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:221
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:232
+msgid "Icon Color"
+msgstr "Cor do ícone"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:226
+msgid "Icon Bg Color"
+msgstr "Cor Fundo Ícone"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:227
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:238
+msgid "Icon Background color"
+msgstr "Cor de Fundo do Ícone"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:231
+#, fuzzy
+msgid "Icon Hover Color"
+msgstr "Mostrar botão do link na imagem em foco"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:237
+msgid "Icon Hover Bg Color"
+msgstr ""
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:242
+#, fuzzy
+msgid "Icon padding"
+msgstr "Ícone do Evento"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:243
+msgid "Icon Background padding"
+msgstr "Preenchimento do Fundo do Ícone"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:250
+#, fuzzy
+msgid "Icon Bg Radius"
+msgstr "Ícone do Evento"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:251
+#, fuzzy
+msgid "Icon Background radius"
+msgstr "Efeito Fundo"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:260
+#, fuzzy
+msgid "Insert Icon Shortcode"
+msgstr "Ícone do Evento"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:273
+msgid "Alert Style"
+msgstr "Estilo de Alerta"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:274
+msgid "Select the alert's style, ie the alert colour"
+msgstr "Escolha o estilo do alerta, ou seja, a cor de alerta"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:286
+msgid "Alert Bg Color"
+msgstr "Cor Fundo Alerta"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:291
+msgid "Alert Border Color"
+msgstr "Cor Borda Alerta"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:292
+msgid "Border color"
+msgstr "Cor da Borda"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:296
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:432
+msgid "Text Color"
+msgstr "Cor do Texto"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:297
+msgid "Alert Text color"
+msgstr "Cor Texto Alerta"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:302
+msgid "Alert Text"
+msgstr "Texto Alerta"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:303
+msgid "Add the alert's text"
+msgstr "Adicionar o texto do alerta"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:308
+msgid "Insert Alert Shortcode"
+msgstr ""
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:321
+msgid "Tooltip Text"
+msgstr ""
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:322
+#, fuzzy
+msgid "Add the Tooltip text"
+msgstr "Adicionar Seção"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:327
+msgid "Tooltip Anchor"
+msgstr ""
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:328
+#, fuzzy
+msgid "Add the Tooltip anchor"
+msgstr "Adicionar Seção"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:333
+msgid "Insert Tooltip Shortcode"
+msgstr ""
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:347
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:405
+#, fuzzy
+msgid "Percentage Cover"
+msgstr "Passando Porcentagem"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:348
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:406
+msgid "Only number eg:20"
+msgstr ""
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:353
+msgid "Style"
+msgstr "Estilo"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:354
+#, fuzzy
+msgid "Tron or Custom"
+msgstr "Custom Class"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:363
+msgid "Circle Diameter"
+msgstr "Diâmetro do Círculo"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:364
+#, fuzzy
+msgid "In pixels eg: 100"
+msgstr "100"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:369
+msgid "Circle Thickness"
+msgstr "Espessura do Círculo"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:370
+msgid "In percentage"
+msgstr "Em percentual"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:374
+msgid "Progress  Text Color"
+msgstr "Progresso  Cor do Texto"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:375
+msgid "Progress  Text color"
+msgstr "Progress  Text color"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:379
+msgid "Progress Circle Color"
+msgstr "Progresso Cor do Círculo"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:380
+msgid "Progress Circle color"
+msgstr "Progresso Cor do círculo"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:385
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:412
+msgid "Some Content"
+msgstr "Alguns Conteúdos"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:386
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:413
+msgid "like : 20% Skill, shortcodes/html allowed"
+msgstr ""
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:391
+msgid "Insert Round Progress Shortcode"
+msgstr ""
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:417
+msgid "Color"
+msgstr "Cor"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:418
+msgid "Select progressbar color"
+msgstr "Selecione a cor do barra de progresso"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:427
+msgid "Stripe Bg Color"
+msgstr "Stripe Cor Fundo"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:428
+msgid "Stripe Background color"
+msgstr "Stripe Cor do Fundo"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:433
+msgid "Stripe Text color"
+msgstr "Stripe Cor do Texto"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:437
+msgid "Insert Progressbar Shortcode"
+msgstr "Inserir Shortcode da Barra de Progresso"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:452
+msgid "Tabs Style"
+msgstr "Estilo Tabs"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:453
+msgid "select a style"
+msgstr "selecione o estilo"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:463
+msgid "Tabs theme"
+msgstr "Tema Tabs"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:464
+msgid "select a theme"
+msgstr "selecione um tema"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:472
+msgid "Insert Tab Shortcode"
+msgstr "Insert Tab Shortcode"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:479
+msgid "Tab Title"
+msgstr "Título Tab"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:480
+msgid "Title of the tab"
+msgstr "Título da aba"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:484
+msgid "Title Icon"
+msgstr "Título Ícone"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:490
+msgid "Tab Content"
+msgstr "Conteúdo Tab"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:491
+msgid "Add the tabs content"
+msgstr "Adicionar conteúdo nas abas"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:495
+msgid "Add Tab"
+msgstr "Adicionar Tab"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:512
+msgid "Background Color"
+msgstr "Cor de Fundo"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:513
+msgid "Background color & theme of note"
+msgstr ""
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:538
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:717
+msgid "Content"
+msgstr "Conteúdo"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:539
+#, fuzzy
+msgid "Note Content, supports HTML/Shortcodes"
+msgstr "Suporta HTML e shortcodes"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:544
+#, fuzzy
+msgid "Insert Note Shortcode"
+msgstr "NOTA:"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:559
+#, fuzzy
+msgid "Divider Class"
+msgstr "Custom Class"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:560
+msgid ""
+"clear : To begin form new line. Change Size using : one_third,one_fourth,"
+"one_fifth,two_third. Use multiple styles space saperated"
+msgstr ""
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:565
+msgid "Insert Divider Shortcode"
+msgstr ""
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:577
+#, fuzzy
+msgid "Tagline Style"
+msgstr "Estilo"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:578
+#, fuzzy
+msgid "Select the Tagline style"
+msgstr "Estilo"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:609
+msgid "Tagline"
+msgstr ""
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:610
+#, fuzzy
+msgid "Supports HTML content"
+msgstr "Suporta HTML e shortcodes"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:615
+msgid "Insert Tagline Shortcode"
+msgstr ""
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:630
+msgid "Enter Popup ID"
+msgstr "Digite o ID do Popup"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:634
+#, fuzzy
+msgid "Anchor Style"
+msgstr "Estilo"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:644
+#, fuzzy
+msgid "Popup/Modal Anchor"
+msgstr "Modal ID incorreta, por favor, verifique novamente!"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:645
+#, fuzzy
+msgid "Supports HTML & Shortcodes"
+msgstr "Suporta HTML e shortcodes"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:650
+msgid "Show Popup on Page-load"
+msgstr "Mostrar Popup na Página-carregando"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:656
+msgid "Insert Popups Shortcode"
+msgstr ""
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:669
+msgid "Enter Testimonial ID"
+msgstr "Digite o ID do Depoimento"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:674
+#, fuzzy
+msgid "Number of Characters to show"
+msgstr "Número de Cursos para exibir"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:675
+msgid ""
+"If number of characters entered above is less than Testimonial Post length, "
+"Read more link will appear"
+msgstr ""
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:679
+#, fuzzy
+msgid "Insert Testimonial Shortcode"
+msgstr "Digite o nome do autor para o depoimento."
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:692
+msgid "Enter Course ID"
+msgstr "Digite o ID do Curso"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:696
+#, fuzzy
+msgid "Insert Course Shortcode"
+msgstr " em curso "
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:709
+msgid "Select Testimonial"
+msgstr "Selecione Depoimento"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:721
+msgid "Insert PullQuote Shortcode"
+msgstr ""
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:735
+msgid "Member Image"
+msgstr "Imagem do membro"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:736
+msgid "Image url of team member"
+msgstr ""
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:741
+msgid "Member Name"
+msgstr "Nome do membro"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:742
+msgid "Name of team member (HTML allowed)"
+msgstr ""
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:747
+msgid "Designation"
+msgstr "Designação"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:748
+msgid "Designation of Team Member (HTML allowed)"
+msgstr ""
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:752
+msgid "Insert Team Member Shortcode"
+msgstr ""
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:757
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:835
+#, fuzzy
+msgid "Social Icon"
+msgstr "Ícone do Evento"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:762
+#, fuzzy
+msgid "Icon Link"
+msgstr "Ícone do Evento"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:766
+#, fuzzy
+msgid "Add Social Information"
+msgstr "Informações Adicionais"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:781
+msgid "End Map Iframe code"
+msgstr ""
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:782
+msgid "Enter your map iframce code including iframe tags"
+msgstr ""
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:787
+msgid "Insert Google Maps Shortcode"
+msgstr "Insira Google Maps Shortcode"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:802
+#, fuzzy
+msgid "Select Thumb Size"
+msgstr "Selecionar Slider"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:803
+msgid "Image size"
+msgstr "Tamanho da imagem"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:816
+#, fuzzy
+msgid "Attachment Ids"
+msgstr "Tipo de Anexo"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:817
+#, fuzzy
+msgid "Attachment Ids separated by comma"
+msgstr "Digite os nomes de usuários dos alunos, separados por vírgula"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:822
+#, fuzzy
+msgid "Insert Gallery Shortcode"
+msgstr "Adicionar para Galeria"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:836
+msgid "Select Elastic Social Icon, takes size/color of text it is inserted in:"
+msgstr ""
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:841
+msgid "Size in pixels"
+msgstr "Tamanho em pixels"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:842
+msgid "Enter Elastic font size in pixels "
+msgstr ""
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:847
+msgid "Insert Social Icon Shortcode"
+msgstr ""
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:861
+msgid "Enter email"
+msgstr "Digite o email"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:862
+msgid "Email is sent to this email. Use comma for multiple entries"
+msgstr "Email é enviado para este email. Use vírgula para múltiplas entradas"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:867
+msgid "Email Subject"
+msgstr "Email Assunto"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:868
+msgid "Subject of email"
+msgstr "Assunto do email"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:872
+msgid "Generate ContactForm Shortcode"
+msgstr ""
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:878
+msgid "Label Text"
+msgstr "Texto Etiqueta"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:883
+msgid "Form Element"
+msgstr "Elemento do Formulário"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:884
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:902
+#, fuzzy
+msgid "select Form element type"
+msgstr "Selecione o tipo da pergunta, "
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:896
+#, fuzzy
+msgid "Enter Select Options"
+msgstr "Opções de Privacidade"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:897
+#, fuzzy
+msgid "Comma seperated options."
+msgstr "Opções de Privacidade"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:901
+msgid "Validation"
+msgstr "Validação"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:914
+msgid "Add Form Element"
+msgstr "Adicionar Elemento Formulário"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:929
+msgid "Enter Heading"
+msgstr "Digite o Cabeçalho"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:930
+msgid "Enter heading."
+msgstr "Digite o cabeçalho."
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:934
+msgid "Insert Heading Shortcode"
+msgstr "Insira Shortcode do Cabeçalho"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:947
+msgid "Enter Video iframe Code"
+msgstr "Digite Video iframe Code"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:948
+msgid "For Responsive iframe videos form Youtube, Vimeo,bliptv etc..."
+msgstr "Para Responsive iframe videos form Youtube, Vimeo,bliptv etc..."
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:952
+msgid "Insert iFrame Video Shortcode"
+msgstr "Insira iFrame Video Shortcode"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:965
+#, fuzzy
+msgid "Enter Iframe Height"
+msgstr "Altura do Bloco Parallax (em px)"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:966
+#, fuzzy
+msgid "Set iframe height"
+msgstr "Altura do Bloco Parallax (em px)"
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:971
+#, fuzzy
+msgid "Enter iframe URL"
+msgstr "Digite o nome do autor para o depoimento."
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:972
+msgid ""
+"For Responsive iframe based content, like Articulate storyline, iSpring "
+"content etc..."
+msgstr ""
+
+# @ vibe-shortcodes
+#: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-shortcodes/tinymce/config.php:976
+#, fuzzy
+msgid "Insert iFrame Shortcode"
+msgstr "Insira iFrame Video Shortcode"
